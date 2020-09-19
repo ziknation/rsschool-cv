@@ -19,3 +19,13 @@ Junior front-end developer. Trying to learn modern JS stack. Doing my best for s
 ### Code examples:
 * Weather forecast app: [Repository](https://github.com/ziknation/fancy-weather), [Deploy](https://ziknation.github.io/fancy-weather/)
 * Culture portal (teamwork, made on React): [Repository](https://github.com/ziknation/culture-portal/tree/master), [Deploy](https://culture-portal-18.netlify.app/)
+
+### Experience:
+Had tried to create some easy games such as [XO](https://github.com/ziknation/XO-game-project)(JS), 2048(C++), Rock Paper Scissors(Java). All projects from RSS 2019 Q3, like [Fancy weather](https://github.com/ziknation/fancy-weather), [Culture portal](https://github.com/ziknation/culture-portal/tree/master), [RSS-virtual-keyboard](https://github.com/ziknation/RSS-virtual-keyboard) and other projects on my [git hub account](https://github.com/ziknation).
+
+### Education:
+* _High school_: complete higher education(Belarusian State University of Informatics and Radio electronics/ since 2016). Graduated in 2020
+* Courses: 
+    * RS School 2019 Q3
+    * Itransition course in Front-end specialization
+    
